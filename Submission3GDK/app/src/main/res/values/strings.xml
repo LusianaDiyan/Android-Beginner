@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Submission3GDK</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="cange_language">Change Language</string>
+    <string name="katalog_film_sederhana">Simple Movie Catalogue</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="cange_language">Ganti Bahasa</string>
+    <string name="movies">Film</string>
+    <string name="title_home">Home</string>
+    <string name="title_notifications">Notifikasi</string>
+    <string name="tv_shows">Acara Tv</string>
+    <string name="katalog_film_sederhana">Katalog Film Sederhana</string>
+</resources>

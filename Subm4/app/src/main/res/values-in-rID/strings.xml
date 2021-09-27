@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AsyncSubm4</string>
+    <string name="title">Katalog Film</string>
+    <string name="movie_title">Film</string>
+    <string name="tv_title">Acara TV</string>
+    <string name="fav_title">Favorit</string>
+    <string name="detail">Rincian</string>
+    <string name="change_language">Pengaturan Bahasa</string>
+    <string name="desc">Lorem ipsum...</string>
+
+</resources>

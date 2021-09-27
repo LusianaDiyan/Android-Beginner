@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="colorPrimary">#FF1493</color>
+        <color name="colorPrimaryDark">#FF69B4</color>
+        <color name="colorAccent">#C71585</color>
+        <color name="sandyBrown">#F4A460</color>
+        <color name="lightGrey">#d3d3d3</color>
+        <color name="white">#fff</color>
+        <color name="black">#000</color>
+        <color name="lighterGray">#FAFAFA</color>
+        <color name="poster_banner_tint">#6F000000</color>
+        <color name="powder_blue">#B0E0E6</color>
+        <color name="salmon">#FA8072</color>
+        <color name="pale_turqois">#AFEEEE</color>
+
+        <color name="gradEnd">#FFFACD</color>
+        <color name="gradStart">#FFE4B5</color>
+        <color name="font">#FFD700</color>
+        <color name="whire">#fff</color>
+</resources>

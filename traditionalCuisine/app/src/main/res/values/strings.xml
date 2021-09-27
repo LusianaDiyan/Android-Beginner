@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Traditional Cuisine</string>
+    <string name="food_name">Food Name</string>
+    <string name="description">Description</string>
+
+    <string-array name="data_namamakanan">
+        <item>Gudeg</item>
+        <item>Krecek</item>
+        <item>Rendang</item>
+        <item>Gulai</item>
+        <item>Gado - Gado</item>
+        <item>Ketoprak</item>
+        <item>Pecel</item>
+        <item>Karedok</item>
+        <item>Trancam</item>
+        <item>Urap</item>
+        <item>Tumpeng</item>
+        <item>Serundeng</item>
+        <item>Nasi Liwet</item>
+        <item>Kerak Telor</item>
+        <item>Pempek</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu dan sambal goreng krecek.</item>
+        <item>Krecek atau kerecek adalah kulit sapi yang di keringkan dapat digunakan dalam masakan atau dibuat kerupuk, cara masak menggunakan bumbu-bumbunya sama dengan bumbu-bumbu sambal goreng, hanya kuahnya agak banyak. Di daerah Jawa Tengah yang dimaksud krecek adalah sambel goreng tempe dengan kerupuk kulit.</item>
+        <item>Rendang atau randang adalah masakan daging dengan bumbu rempah-rempah yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak yang dipanaskan berulang-ulang menggunakan santan sampai kuahnya kering sama sekali.</item>
+        <item>Gulai adalah masakan berbahan baku daging ayam, aneka ikan, kambing, sapi, jeroan, atau sayuran seperti nangka muda dan daun singkong, yang diolah dalam kuah bumbu rempah yang bercita rasa gurih. Ciri khas gulai adalah bumbunya yang kaya rempah</item>
+        <item>Gado-gado adalah salah satu makanan yang berasal dari Indonesia yang berupa sayur-sayuran yang direbus dan dicampur jadi satu, dengan bumbu kacang atau saus dari kacang tanah dan yang dihaluskan disertai irisan telur </item>
+        <item>Ketoprak adalah salah satu jenis makanan khas Indonesia menggunakan ketupat yang mudah dijumpai. Biasanya ketupat dijajakan menggunakan kereta dorong di jalan-jalan atau kaki lima. Bahan-bahan utamanya adalah tahu, bihun, mentimun, taoge dan bisa juga memakai telur rebus yang dilengkapi dengan saus kacang, kecap manis, dan taburan bawang merah goreng.</item>
+        <item>Pecel atau pecal erupakan makanan yang dikombinasikan dengan bumbu sambal kacang sebagai bahan utamanya dan dicampur dengan aneka jenis sayuran. Makanan ini populer terutama di wilayah DI Yogyakarta, Jawa Tengah, dan Jawa Timur.</item>
+        <item>Karedok atau keredok adalah salah satu makanan khas Sunda di Indonesia. Karedok dibuat dengan bahan-bahan sayuran mentah antara lain mentimun, taoge, kol, kacang panjang, ubi, daun kemangi, dan terong. Sedangkan sausnya adalah bumbu kacang yang dibuat dari cabai merah, bawang putih, kencur, kacang tanah, air asam, gula jawa, garam, dan terasi.</item>
+        <item>Trancam adalah makanan khas Jawa Tengah yang mirip dengan urap, terdiri dari tauge, kacang panjang, daun kemangi dan irisan halus sawi putih. Semuanya serba segar dan diaduk dengan kelapa parut berbumbu bawang putih, cabai dan kencur.</item>
+        <item>Urap (kadang dieja urab atau disebut jamak urap-urap)  adalah hidangan salad berupa sayuran yang dimasak (direbus) yang dicampur kelapa parut yang dibumbui sebagai pemberi citarasa. Urap biasanya merupakan syarat atau hidangan penting sebagi sayur pengiring dan pelengkap tumpeng Jawa. Urap juga lazim disajikan bersama nasi kuning.</item>
+        <item>Nasi Tumpeng adalah cara penyajian nasi yang berbentuk kerucut dan ditata bersama dengan lauk-pauknya karena itu disebut pula nasi tumpeng. Olahan nasi yang dipakai umumnya berupa nasi kuning, meskipun kerap juga digunakan nasi putih biasa atau nasi uduk.</item>
+        <item>Serundeng adalah makanan khas Indonesia yang sering digunakan sebagai lauk-pauk nasi. Serundeng dibuat dari parutan kelapa yang digoreng hingga kuning kecoklatan dengan bumbu-bumbu seperti bawang bombay, cabai, bawang putih, bawang merah, ketumbar, kunyit, gula, asam jawa, daun salam, daun jeruk dan lengkuas.</item>
+        <item>Nasi liwet adalah makanan khas kota Solo dan merupakan kuliner asli daerah Baki, Kabupaten Sukoharjo. Nasi liwet adalah nasi gurih (dimasak dengan kelapa) mirip nasi uduk, yang disajikan dengan sayur labu siam, suwiran ayam dan areh.</item>
+        <item>Kerak telur adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir. </item>
+        <item>Pempek atau empek-empek adalah makanan khas Palembang yang terbuat dari daging ikan yang digiling lembut dan tepung kanji (secara salah kaprah sering disebut sebagai tepung sagu), serta beberapa komposisi lain seperti telur, bawang putih yang dihaluskan, penyedap rasa dan garam.</item>
+    </string-array>
+    
+    <array name="data_picture">
+        <item>@drawable/pict_gudeg</item>
+        <item>@drawable/pict_krecek</item>
+        <item>@drawable/pict_rendang</item>
+        <item>@drawable/pict_gulai</item>
+        <item>@drawable/pict_gadogado</item>
+        <item>@drawable/pict_ketoprak</item>
+        <item>@drawable/pict_pecel</item>
+        <item>@drawable/pict_karedok</item>
+        <item>@drawable/pict_trancam</item>
+        <item>@drawable/pict_urap</item>
+        <item>@drawable/pict_tumpeng</item>
+        <item>@drawable/pict_serundeng</item>
+        <item>@drawable/pict_nasiliwet</item>
+        <item>@drawable/pict_keraktelor</item>
+        <item>@drawable/pict_pempek</item>
+    </array>
+</resources>

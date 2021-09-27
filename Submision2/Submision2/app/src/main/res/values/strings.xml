@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Submision2</string>
+
+    <string name="league_id">4332</string>
+    <string name="past_match">Past Match</string>
+    <string name="no_data">Tidak Ada Data yang ditemukan</string>
+    <string name="vs">  VS  </string>
+
+    <string-array name="utama">
+        <item>@string/past_match</item>
+        <item>Next Match</item>
+    </string-array>
+
+</resources>

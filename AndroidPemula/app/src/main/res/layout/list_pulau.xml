@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="150dp"
+                android:id="@+id/ivPulau"
+                android:src="@drawable/jawa"/>
+            <TextView
+                android:layout_toRightOf="@id/ivPulau"
+                android:layout_toEndOf="@id/ivPulau"
+                android:id="@+id/tv_item_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                tools:text="Nama Pulau"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="@dimen/activity_ver_margin"
+                android:layout_marginBottom="8dp"
+                android:layout_marginRight="@dimen/activity_ver_margin"
+                android:layout_marginLeft="@dimen/activity_ver_margin"/>
+
+            <TextView
+                android:layout_below="@id/tv_item_name"
+                android:layout_toRightOf="@id/ivPulau"
+                android:layout_toEndOf="@id/ivPulau"
+                android:id="@+id/tv_item_other"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:text="Nama Lain"
+                android:layout_marginBottom="8dp"
+                android:layout_marginRight="@dimen/activity_ver_margin"
+                android:layout_marginLeft="@dimen/activity_ver_margin"/>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

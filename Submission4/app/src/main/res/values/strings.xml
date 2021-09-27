@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Submission4</string>
+    <string name="katalog_film">MOVIE CATALOGUE</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">Tv Show</string>
+    <string name="title_favorite">Favourite</string>
+    <string name="change_language">Change Language Settings</string>
+    <string name="tv_descripion" translatable="false">Lorem ipsum... </string>
+    <string name="detail">Detail</string>
+</resources>

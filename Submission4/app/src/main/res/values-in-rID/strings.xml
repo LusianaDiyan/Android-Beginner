@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission4</string>
+    <string name="detail">Detail</string>
+    <string name="katalog_film">Katalog Film</string>
+    <string name="change_language">Ubah Pengaturan Bahasa</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Acara TV</string>
+</resources>
